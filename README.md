@@ -12,18 +12,18 @@ For more information about the course, please check the [handbook](https://handb
 ---
 
 | Workshop | Topic | Time |
-    | ------ | ------ |-----|
-    | [Workshop 1](https://handbook.unimelb.edu.au/2019/subjects/comp30022) | Logistics and Overview | 30 Jul 2019
-    | [Workshop 2]() | TBD |
-    | [Workshop 3]() | TBD |
-    | [Workshop 4]() | TBD |
-    | [Workshop 5]() | TBD |
-    | [Workshop 6]() | TBD |
-    | [Workshop 7]() | TBD |
-    | [Workshop 8]() | TBD |
-    | [Workshop 9]() | TBD |
-    | [Workshop 10]() | TBD |
-    | [Workshop 11]() | TBD |
+| ------ | ------ |-----|
+| [Workshop 1](https://handbook.unimelb.edu.au/2019/subjects/comp30022) | Logistics and Overview | 30 Jul 2019
+| [Workshop 2]() | TBD |
+| [Workshop 3]() | TBD |
+| [Workshop 4]() | TBD |
+| [Workshop 5]() | TBD |
+| [Workshop 6]() | TBD |
+| [Workshop 7]() | TBD |
+| [Workshop 8]() | TBD |
+| [Workshop 9]() | TBD |
+| [Workshop 10]() | TBD |
+| [Workshop 11]() | TBD |
 
 #### **Note**
 Feedbacks and comments are more than welcome!
