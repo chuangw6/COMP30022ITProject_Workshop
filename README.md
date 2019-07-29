@@ -1,14 +1,14 @@
 # COMP30022 IT Project
-#### **Purpose**
+### **Purpose**
 ---
 This repository contains workshop slides of the course [COMP30022](https://handbook.unimelb.edu.au/2019/subjects/comp30022).
-#### **Author**
+### **Author**
 ---
 [Chuang Wang](www.linkedin.com/in/chuangw), IT Capstone Project Supervisor for COMP30022 Semester2 2019 given by [University of Melbourne](https://www.unimelb.edu.au/)
-#### **Course Info**
+### **Course Info**
 ---
 For more information about the course, please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp30022) for the course.
-#### **Contents**
+### **Contents**
 ---
 
 | Workshop | Topic | Time |
@@ -25,13 +25,13 @@ For more information about the course, please check the [handbook](https://handb
 | [Workshop 10]() | TBD |
 | [Workshop 11]() | TBD |
 
-#### **Note**
-Feedbacks and comments are more than welcome!
-Please contact author: chuangw1@unimelb.edu.au
+### **Notes**
+Feedbacks and comments are more than welcome!\
+Please contact the author: chuangw1@unimelb.edu.au\
 Thanks a lot!
 
 
-#### **License**
+### **License**
 ---
 MIT
 
