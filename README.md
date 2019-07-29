@@ -24,6 +24,7 @@ For more information about the course, please check the [handbook](https://handb
 | [Workshop 9]() | TBD |
 | [Workshop 10]() | TBD |
 | [Workshop 11]() | TBD |
+| [Workshop 12]() | TBD |
 
 ### **Notes**
 ---
