@@ -26,6 +26,7 @@ For more information about the course, please check the [handbook](https://handb
 | [Workshop 11]() | TBD |
 
 ### **Notes**
+---
 Feedbacks and comments are more than welcome!\
 Please contact the author: chuangw1@unimelb.edu.au\
 Thanks a lot!
