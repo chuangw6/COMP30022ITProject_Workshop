@@ -14,7 +14,7 @@ For more information about the course, please check the [handbook](https://handb
 
 | Workshop | Topic | Time |
 | ------ | ------ |-----|
-| [Workshop 1](https://handbook.unimelb.edu.au/2019/subjects/comp30022) | Logistics and Overview | 30 Jul 2019
+| [Workshop 1](https://github.com/chuangw46/COMP30022_Workshop/blob/master/workshop1.pdf) | Logistics and Overview | 30 Jul 2019
 | [Workshop 2]() | TBD |
 | [Workshop 3]() | TBD |
 | [Workshop 4]() | TBD |
