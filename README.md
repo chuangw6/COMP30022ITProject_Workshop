@@ -15,7 +15,7 @@ For more information about the course, please check the [handbook](https://handb
 | Workshop | Topic | Time |
 | ------ | ------ |-----|
 | [Workshop 1](https://github.com/chuangw46/COMP30022_Workshop/blob/master/workshop1.pdf) | Logistics and Overview | 30 Jul 2019
-| [Workshop 2]() | TBD |
+| [Workshop 2](https://github.com/chuangw46/COMP30022_Workshop/blob/master/comp30022_week2Slides.pdf) | Tools | 6 Aug 2019
 | [Workshop 3]() | TBD |
 | [Workshop 4]() | TBD |
 | [Workshop 5]() | TBD |
