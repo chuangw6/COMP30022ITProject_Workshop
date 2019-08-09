@@ -1,10 +1,10 @@
 # COMP30022 IT Project
 ### **Purpose**
 ---
-This repository contains workshop slides of the course [COMP30022](https://handbook.unimelb.edu.au/2019/subjects/comp30022).
+This repository contains workshop slides of the course [COMP30022](https://handbook.unimelb.edu.au/2019/subjects/comp30022) Semester2 2019 given by Professor Leon Sterling at [University of Melbourne](https://www.unimelb.edu.au/)\.
 ### **Author**
 ---
-Chuang Wang, IT Capstone Project Supervisor for COMP30022 Semester2 2019 given by Professor Leon Sterling at [University of Melbourne](https://www.unimelb.edu.au/)\
+The slides are developed by Chuang Wang, IT Capstone Project Supervisor for COMP30022 Semester2 2019 \
 Chuang Wang LinkedIn:www.linkedin.com/in/chuangw
 ### **Course Info**
 ---
